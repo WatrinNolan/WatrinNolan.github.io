@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Volley</title>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" href="roles.css"/>
+</head>
+<header>
+<body>
+	<ul>
+		<li><a href="Home.html">Home</a></li>
+		<li><a href="index.html">Présentation</a></li>
+		<li><a class="active" href="#Rôles">Rôles</a></li>
+		<li><a href="equipe.html">Equipe</a></li>
+		<li><a href="competition.html">Competition</a></li>
+	</ul>
+		<section id="ffvb" class="header-item">
+		<img src="logo-ffvb.png"/></br>
+		
+	<h1>V  lley-Ball</h1>
+	<section id="ballon" class="header-item">
+	<img src="ballonvolley.png"/></br>
+</body>
+<main>
+	<section id="table" class="tableau">
+            <table border="1">
+                <tr>
+                    <td><a href="https://www.youtube.com/watch?v=N9D3yNTXGHM">Les Centraux</a></br>
+					En poste 3, les centraux ont pour principale fonction d'attaquer en courte </br>
+					(passe courte et rapide du passeur,ou demis) ou, dans le cas d'une feinte d'attaque, de « fixer » </br>
+					(attirer) la défense adverse (le contre ou mur)pour l'empêcher d'aller contrer un attaquant ailier.</td>
+                </tr>
+				<tr>
+                    <td><a href="https://www.youtube.com/watch?v=tUzcjhn-4NI">Le Pointu</a></br>
+					Au volley-ball, l'attaquant, aussi appelé « joueur à la technique » ou plus communément « pointu », est celui placé</br>
+					à l'opposé du passeur. Il attaque généralement en poste 2 sauf en phase de réception lorsque lui-même est sur la position 4</br>
+					afin d'éviter des rotations inutiles.</td>
+
+                </tr>
+				<tr>
+					<td><a href="https://www.youtube.com/watch?v=3YhPVICYPUY">Le libéro</a></br>
+					Le libero porte son nom de l'italien «libre». ... Le libero se dédie exclusivement à la défense. Interdiction d'attaquer,</br>
+					de contrer, de servir, ni même… d'être capitaine. Concrètement, il réceptionne le service adverse et donne la meilleur occasion</br> 
+					possible au passeur de relayer le ballon à l'attaquant.</td>
+				</tr>
+				<tr>
+					<td>Le Passeur</br>
+					Le passeur au volley-ball est souvent le capitaine de l'équipe, car c'est la tête pensante, celui qui touche le plus de ballons</br>
+					dans un match et qui organise le jeu. Le passeur doit à la fois s'adapter à la qualité du ballon qu'il reçoit,</br>
+					et décider à quel attaquant il va donner le ballon.</td>
+				</tr>
+</main>

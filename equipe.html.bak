@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Volley</title>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" href="equipe.css"/>
+</head>
+<header>
+<body>
+	<ul>
+		<li><a href="Home.html">Home</a></li>
+		<li><a href="index.html">Présentation</a></li>
+		<li><a href="Rôles.html">Rôles</a></li>
+		<li><a class="active" href="#Equipe">Equipe</a></li>
+		<li><a href="competition.html">Competition</a></li>
+	</ul>
+	<section id="ffvb" class="header-item">
+	<img src="logo-ffvb.png"/></br>
+		
+	<h1>V  lley-Ball</h1>
+	<section id="ballon" class="header-item">
+	<img src="ballonvolley.png"/></br>
+</body>
+</header>
+<main>
+	<section id="Nantes" class="header-item">
+		<a href="https://www.nrmv.fr/"><img src="Logo_Nantes.png"/></a></section>
+		<p><mark><a href="https://www.nrmv.fr/"> Equipe de Volley Nantes : </mark></a> Création du Club en 2007 et l'équipe de Nantes est déjà dans le Championnat Nationnal.<br>
+		Pour cette première année ils finiront seulement 9ème. Dans le Championnat 2008/2009 ils finissent 4ème au National. <br> L'année d'après, ils 
+		réussiront à aller chercher la coupe en finissant premier de la Ligue B et débloque donc la ligue A.<br> Malheuresement, pour la première année en 
+		Ligue A (2010/2011), ils finiront 7ème. Leur meilleur résultat en Ligue A <br> sera 3ème pour le championnat 2012/2013</p><br>
+		
+	<section id="Laval" class="header-item">
+		<a href="https://laval-volley-ball.asptt.com/"><img src="Logo Laval.png"/></a></section>
+		<p><mark><a href="https://laval-volley-ball.asptt.com/"> Equipe de Volley Laval : </mark></a>Fort de sa formation jeune, l’ASPTT Laval veut voir plus loin et encore plus haut.<br>
+		Performer, développer, communiquer et valoriser, tels sont les ambitions de l’ASPTT. Depuis quelques années, <br>l'équipe N3 Masculine
+		se place parmi le haut de tableau et veut aller plus loin, monter plus haut,<br>
+		créer quelque chose d’extraordinaire et laisser notre empreinte dans l’histoire.</p><br>
+		
+	<section id="Chaumont" class="header-item">
+		<a href="http://cvb52.com/effectif-pro-2019-2020/"><img src="Logo Chaumont.png"/></a></section>
+		<p><mark><a href="http://cvb52.com/effectif-pro-2019-2020/"> Equipe de Volley Chaumont :</mark></a> Le Chaumont Volley-Ball 52 est un club français de volley-ball, fondé en 1996 et basé<br> 
+		à Chaumont (Haute-Marne), et évoluant depuis la saison 2012-2013 en Ligue A. Lors de la saison 2017-2018, le club arrive en finale <br>
+		du championnat de France, mais est battu par Tours le 5 mai 2018 (3-1)2.</p><br>
+		
+	<section id="LeMans" class="header-item">
+		<img src="Le Mans.jpg"/></section>
+		<p><mark><a href="https://lemansvolley.clubeo.com/">Equipe de Volley du Mans :</mark></a> Nos équipes 1ères jouent en Pré-nationale (Féminine et Masculine) et nos équipes réserves <br>
+		en Départementale. Nous avons des équipes Jeunes en catégorie Régionale : chez les M15 et M17 filles et garçons. <br>
+		Mais également des équipes jeunes M9 à M17 filles et garçons au niveau départemental. Ainsi qu'une section loisir adultes <br> 
+		qui propose entrainement et championnat "Loisir" en semaine.</p>
+</main>

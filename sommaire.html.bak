@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Volley</title>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" href="equipe.css"/>
+</head>
+<header>
+<body>
+	<ul>
+	    <li><a class="active" href="#Sommaire">Sommaire</a></li>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="Rôles.html">Rôles</a></li>
+		<li><a href="Equipe">Equipe</a></li>
+		<li><a href="competition.html">Competition</a></li>
+	</ul>
+	<section id="ffvb" class="header-item">
+	<img src="logo-ffvb.png"/></br>
+		
+	<h1>V  lley-Ball</h1>
+	<section id="ballon" class="header-item">
+	<img src="ballonvolley.png"/></br>
+</body>
+<main>
+</main>
+
